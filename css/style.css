@@ -17,6 +17,10 @@ body {
     background-attachment: fixed;
 
     color: white;
+
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
 }
 
 /* Header */
@@ -139,4 +143,5 @@ footer {
     color: white;
     text-align: center;
     padding: 15px;
+    margin-top: auto;
 }
