@@ -73,6 +73,16 @@ nav a:hover {
     font-size: 1.2rem;
 }
 
+/* World Map */
+.world-map {
+    width: 100%;
+    max-width: 900px;
+    display: block;
+    margin: 30px auto;
+    border: 3px solid #d4af37;
+    border-radius: 10px;
+}
+
 /* Cards */
 .cards {
     display: flex;
