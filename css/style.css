@@ -117,6 +117,66 @@ nav a:hover {
     left: 86%;
 }
 
+/* Japan */
+.japan {
+    top: 10%;
+    left: 10%;
+}
+
+/* Italy */
+.italy {
+    top: 20%;
+    left: 20%;
+}
+
+/* China */
+.china {
+    top: 30%;
+    left: 30%;
+}
+
+/* Iceland */
+.iceland {
+    top: 40%;
+    left: 40%;
+}
+
+/* United Kingdom */
+.uk {
+    top: 50%;
+    left: 50%;
+}
+
+/* Korea */
+.korea {
+    top: 60%;
+    left: 60%;
+}
+
+/* Mongolia */
+.mongolia {
+    top: 70%;
+    left: 70%;
+}
+
+/* Thailand */
+.thailand {
+    top: 80%;
+    left: 80%;
+}
+
+/* Malaysia */
+.malaysia {
+    top: 90%;
+    left: 90%;
+}
+
+/* Turkey */
+.turkey {
+    top: 10%;
+    left: 26%;
+}
+
 /* Country Trip List */
 .trip-list {
     width: 80%;
