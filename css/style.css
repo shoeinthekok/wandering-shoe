@@ -81,15 +81,29 @@ nav a:hover {
 /* World Map */
 .map-container {
     position: relative;
-    width: 95%;
-    max-width: 1400px;
-    margin: 0 auto;
+
+    width: 80%;
+    max-width: 1200px;
+
+    margin: 40px auto;
+
+    padding: 15px;
+
+    background: rgba(255, 248, 220, 0.95);
+
+    border: 4px solid #7b3f00;
+    border-radius: 15px;
+
+    box-shadow: 0 8px 25px rgba(0,0,0,0.4);
 }
 
 .world-map {
+    display: block;
+
     width: 100%;
     height: auto;
-    display: block;
+
+    border-radius: 10px;
 }
 
 /* Cards */
