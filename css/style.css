@@ -73,6 +73,11 @@ nav a:hover {
     font-size: 1.2rem;
 }
 
+/* Map Section */
+.map-section h2 {
+     text-align: center;
+}    
+
 /* World Map */
 .world-map {
     width: 100%;
